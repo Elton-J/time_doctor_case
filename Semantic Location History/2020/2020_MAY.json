@@ -1,0 +1,1646 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236370405,
+        "longitudeE7": -465271238,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236385709,
+        "longitudeE7": -465189877,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T16:08:58.393Z",
+        "endTimestamp": "2020-05-03T16:19:23.089Z"
+      },
+      "distance": 850,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 64.46569561958313
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 17.8402841091156
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.67150491476059
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.7598919570446014
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.28936143592
+      }, {
+        "activityType": "STILL",
+        "probability": 0.7143696304410696
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6060876417905092
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.24445857852697372
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1363252755254507
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.11991920182481408
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.108662701677531
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.023261755995918065
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.013276324898470193
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.004470070052775554
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0024225781089626253
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236373691,
+          "lngE7": -465271644
+        }, {
+          "latE7": -236384601,
+          "lngE7": -465188179
+        }, {
+          "latE7": -236386089,
+          "lngE7": -465189361
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 899.5788135037682,
+        "travelMode": "WALK",
+        "confidence": 0.9956951617455864
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236386652,
+        "longitudeE7": -465185165,
+        "placeId": "ChIJC24D-aBCzpQRp2oaQ3U1ZSQ",
+        "address": "R Oratório, 1458 - Parque das Nações, Santo André - SP, 09210-120, Brasil",
+        "name": "Senhor do Bonfim sanctuary",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 35.001236,
+        "calibratedProbability": 22.127981
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T16:19:23.089Z",
+        "endTimestamp": "2020-05-03T16:37:24.866Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -236384713,
+      "centerLngE7": -465189075,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236386496,
+        "longitudeE7": -465191416,
+        "placeId": "ChIJbYzhD6FCzpQRXkZ_vL5YyeQ",
+        "address": "Parque das Nações, Santo André - SP, 09210-110, Brasil",
+        "name": "Parada Bonfim",
+        "locationConfidence": 34.85892,
+        "calibratedProbability": 22.038008
+      }, {
+        "latitudeE7": -236387741,
+        "longitudeE7": -465191258,
+        "placeId": "ChIJ99cdBKFCzpQRkw1ib9viUiI",
+        "address": "Parque das Nações, Santo André - SP, 09210-110, Brasil",
+        "name": "Parada Bonfim",
+        "locationConfidence": 10.442744,
+        "calibratedProbability": 6.601962
+      }, {
+        "latitudeE7": -236382892,
+        "longitudeE7": -465188870,
+        "placeId": "ChIJ05BUGqFCzpQRYmOvhq9Kai8",
+        "address": "R. Suíça, 997 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Sapatek",
+        "locationConfidence": 9.282964,
+        "calibratedProbability": 5.8687425
+      }, {
+        "latitudeE7": -236382560,
+        "longitudeE7": -465189509,
+        "placeId": "ChIJRRHIG6FCzpQRuiIZIpWkfy8",
+        "address": "R. Suíça, 991 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Bazar e Papelaria Arpel",
+        "locationConfidence": 2.5898466,
+        "calibratedProbability": 1.6373158
+      }, {
+        "latitudeE7": -236381118,
+        "longitudeE7": -465193990,
+        "placeId": "ChIJMa8lF6FCzpQRw7E4Y192DWU",
+        "address": "R. Suíça, 937 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "ABC Switzerland - Candy Trade",
+        "locationConfidence": 2.4572124,
+        "calibratedProbability": 1.5534637
+      }, {
+        "latitudeE7": -236377919,
+        "longitudeE7": -465181690,
+        "placeId": "ChIJaweuPKVDzpQRqXk1OOBsTI0",
+        "address": "R Oratório, 1577 - Parque das Nações, Santo André - SP, 09280-110, Brasil",
+        "name": "BANCO DO BRASIL - PARQUE DAS NACOES - Agência 1852",
+        "locationConfidence": 0.98166484,
+        "calibratedProbability": 0.62061405
+      }, {
+        "latitudeE7": -236388414,
+        "longitudeE7": -465172719,
+        "placeId": "ChIJnzUfkAJozpQRfspml1riGGk",
+        "address": "R. Suíça, 1094 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Coop",
+        "locationConfidence": 0.7445118,
+        "calibratedProbability": 0.47068456
+      }, {
+        "latitudeE7": -236388414,
+        "longitudeE7": -465172719,
+        "placeId": "ChIJnzUfkAJozpQRfspml1riGGk",
+        "address": "R. Suíça, 1094 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Coop",
+        "locationConfidence": 0.5646608,
+        "calibratedProbability": 0.35698175
+      }, {
+        "latitudeE7": -236384801,
+        "longitudeE7": -465187931,
+        "placeId": "ChIJQ33nAqFCzpQRtanyuEsIfgM",
+        "address": "R Oratório, 1458 - Parque das Nações, Santo André - SP, 09280-000, Brasil",
+        "name": "A Paixão de Cristo - Paróquia Senhor do Bonfim",
+        "locationConfidence": 0.48998776,
+        "calibratedProbability": 0.30977303
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 28,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236379701,
+        "longitudeE7": -465181009,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236134616,
+        "longitudeE7": -464762802,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T16:37:24.866Z",
+        "endTimestamp": "2020-05-03T16:51:14.935Z"
+      },
+      "distance": 5444,
+      "activityType": "IN_BUS",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 66.5873110294342
+      }, {
+        "activityType": "WALKING",
+        "probability": 17.540352046489716
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.34770268201828
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1776291765272617
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.9821872226893902
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5068790167570114
+      }, {
+        "activityType": "STILL",
+        "probability": 0.2791082253679633
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.19570698495954275
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.15870986972004175
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11994518572464585
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06842861766926944
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.024075886176433414
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.006846991891507059
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004595646896632388
+      }, {
+        "activityType": "SAILING",
+        "probability": 5.162511115486268E-4
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -236387741,
+          "longitudeE7": -465191258,
+          "placeId": "ChIJ99cdBKFCzpQRkw1ib9viUiI",
+          "address": "Parque das Nações, Santo André - SP, 09210-110, Brasil",
+          "name": "Parada Bonfim"
+        }, {
+          "latitudeE7": -236125889,
+          "longitudeE7": -464764592,
+          "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+          "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+          "name": "Termiinal De São Mateus"
+        }],
+        "name": "285",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJYca-oddpzpQRp0SlJKcX-cE",
+        "source": "INFERRED",
+        "confidence": 0.9005598225940271,
+        "distanceMeters": 6125.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -236334667,
+          "lngE7": -465116958,
+          "accuracyMeters": 18,
+          "timestamp": "2020-05-03T16:39:11.797Z"
+        }, {
+          "latE7": -236328497,
+          "lngE7": -465118668,
+          "accuracyMeters": 150,
+          "timestamp": "2020-05-03T16:39:42.055Z"
+        }, {
+          "latE7": -236279928,
+          "lngE7": -465079159,
+          "accuracyMeters": 151,
+          "timestamp": "2020-05-03T16:41:12.900Z"
+        }, {
+          "latE7": -236256247,
+          "lngE7": -464994839,
+          "accuracyMeters": 16,
+          "timestamp": "2020-05-03T16:43:13.846Z"
+        }, {
+          "latE7": -236261993,
+          "lngE7": -464913912,
+          "accuracyMeters": 46,
+          "timestamp": "2020-05-03T16:45:13.846Z"
+        }, {
+          "latE7": -236188280,
+          "lngE7": -464790304,
+          "accuracyMeters": 30,
+          "timestamp": "2020-05-03T16:49:12.284Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5673.571732005362
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236125889,
+        "longitudeE7": -464764592,
+        "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+        "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Termiinal De São Mateus",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 77.33315,
+        "calibratedProbability": 66.00723,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T16:51:14.935Z",
+        "endTimestamp": "2020-05-03T17:01:23.278Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236131150,
+      "centerLngE7": -464764567,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236122514,
+        "longitudeE7": -464773891,
+        "placeId": "ChIJzT_nfP5pzpQRxmLx0AFdKIA",
+        "address": "Av. Sapopemba, 15.000 - Jardim Adutora, São Paulo - SP, 03970-000, Brasil",
+        "name": "Estação São Mateus monotrilho.",
+        "locationConfidence": 12.051975,
+        "calibratedProbability": 10.286888
+      }, {
+        "latitudeE7": -236122579,
+        "longitudeE7": -464773911,
+        "placeId": "ChIJnXnf44dpzpQR7zcqorZ5L_U",
+        "locationConfidence": 6.048777,
+        "calibratedProbability": 5.162896
+      }, {
+        "latitudeE7": -236131065,
+        "longitudeE7": -464768559,
+        "placeId": "ChIJw9W8RodozpQRl22pWwglMqg",
+        "address": "Rua Ministro Luís Sparano, 617 - Jardim Santa Adelia, São Paulo - SP, 03970-050, Brasil",
+        "name": "Viação Cometa - Agência São Mateus",
+        "locationConfidence": 1.3221658,
+        "calibratedProbability": 1.1285264
+      }, {
+        "latitudeE7": -236115359,
+        "longitudeE7": -464744707,
+        "placeId": "ChIJ69U8MYFozpQREs1JtJzWS24",
+        "address": "Av. Ragueb Chohfi, 58 - Jardim Três Marias, São Paulo - SP, 08375-000, Brasil",
+        "name": "Assai São Mateus",
+        "locationConfidence": 1.217526,
+        "calibratedProbability": 1.0392118
+      }, {
+        "latitudeE7": -236122496,
+        "longitudeE7": -464773888,
+        "placeId": "ChIJHbXgroBozpQR9ink8d0SggU",
+        "address": "Cidade São Mateus, São Paulo - SP, 03963, Brasil",
+        "name": "São Mateus",
+        "locationConfidence": 0.60275126,
+        "calibratedProbability": 0.5144746
+      }, {
+        "latitudeE7": -236126058,
+        "longitudeE7": -464754936,
+        "placeId": "ChIJ78d6KIdozpQR-j3yQjly4Ek",
+        "address": "Av. Adélia Chohfi, 1000 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Drogarias Bifarma",
+        "locationConfidence": 0.5740233,
+        "calibratedProbability": 0.48995402
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 62,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236131292,
+        "longitudeE7": -464762985,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236314665,
+        "longitudeE7": -464497871,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T17:01:23.278Z",
+        "endTimestamp": "2020-05-03T17:37:06.729Z"
+      },
+      "distance": 6487,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 51.052021980285645
+      }, {
+        "activityType": "WALKING",
+        "probability": 33.6337149143219
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.134735703468323
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5263089910149574
+      }, {
+        "activityType": "STILL",
+        "probability": 1.3062499463558197
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.1852961964905262
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5904823541641235
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.26403837837278843
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.13949418207630515
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.07969686412252486
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.04423825885169208
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.02384362742304802
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.010309794743079692
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.008884473936632276
+      }, {
+        "activityType": "SAILING",
+        "probability": 6.924678928044159E-4
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -236126440,
+          "longitudeE7": -464729610,
+          "placeId": "ChIJYeW1IIRozpQR38ROcbNzayY",
+          "address": "São Mateus, São Paulo - SP, 08330-095, Brasil",
+          "name": "Av. Sapopemba, 15900"
+        }, {
+          "latitudeE7": -236323590,
+          "longitudeE7": -464476430,
+          "placeId": "ChIJN1pdE9dozpQRY3COnM6mpp8",
+          "address": "Jardim Sao Francisco, São Paulo - SP, 08390-310, Brasil",
+          "name": "Av. Dos Sertanistas, 1618"
+        }],
+        "name": "4028-10",
+        "hexRgbColor": "00654F",
+        "linePlaceId": "ChIJf8rPQpFozpQR55hf-cUdWvg",
+        "source": "INFERRED",
+        "confidence": 0.0,
+        "distanceMeters": 4821.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -236131292,
+          "lngE7": -464762985,
+          "accuracyMeters": 71,
+          "timestamp": "2020-05-03T17:01:23.278Z"
+        }, {
+          "latE7": -236218366,
+          "lngE7": -464657642,
+          "accuracyMeters": 26,
+          "timestamp": "2020-05-03T17:05:25.270Z"
+        }, {
+          "latE7": -236254358,
+          "lngE7": -464628941,
+          "accuracyMeters": 38,
+          "timestamp": "2020-05-03T17:07:26.338Z"
+        }, {
+          "latE7": -236261689,
+          "lngE7": -464597182,
+          "accuracyMeters": 23,
+          "timestamp": "2020-05-03T17:09:27.450Z"
+        }, {
+          "latE7": -236225291,
+          "lngE7": -464575062,
+          "accuracyMeters": 45,
+          "timestamp": "2020-05-03T17:11:28.386Z"
+        }, {
+          "latE7": -236213930,
+          "lngE7": -464518802,
+          "accuracyMeters": 26,
+          "timestamp": "2020-05-03T17:13:29.428Z"
+        }, {
+          "latE7": -236232048,
+          "lngE7": -464468275,
+          "accuracyMeters": 20,
+          "timestamp": "2020-05-03T17:15:29.407Z"
+        }, {
+          "latE7": -236292122,
+          "lngE7": -464442835,
+          "accuracyMeters": 25,
+          "timestamp": "2020-05-03T17:17:10.836Z"
+        }, {
+          "latE7": -236349092,
+          "lngE7": -464438001,
+          "accuracyMeters": 39,
+          "timestamp": "2020-05-03T17:19:30.568Z"
+        }, {
+          "latE7": -236368242,
+          "lngE7": -464464431,
+          "accuracyMeters": 19,
+          "timestamp": "2020-05-03T17:23:15.514Z"
+        }, {
+          "latE7": -236372908,
+          "lngE7": -464485773,
+          "accuracyMeters": 38,
+          "timestamp": "2020-05-03T17:25:34.959Z"
+        }, {
+          "latE7": -236348917,
+          "lngE7": -464487262,
+          "accuracyMeters": 22,
+          "timestamp": "2020-05-03T17:32:01.484Z"
+        }, {
+          "latE7": -236325538,
+          "lngE7": -464499184,
+          "accuracyMeters": 68,
+          "timestamp": "2020-05-03T17:36:03.502Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 6927.586154028913
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236310335,
+        "longitudeE7": -464500286,
+        "placeId": "ChIJzQqbF9pozpQRdH6idSDKS6g",
+        "address": "Tv. Fernando Cony Campos, 5 - São Rafael, São Paulo - SP, 08390-315, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 35.260048,
+        "calibratedProbability": 18.559317,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T17:37:06.729Z",
+        "endTimestamp": "2020-05-03T22:00:33.833Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236310788,
+      "centerLngE7": -464499954,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236310062,
+        "longitudeE7": -464500160,
+        "placeId": "ChIJJwubF9pozpQRCo9OKjivsWc",
+        "address": "Tv. Fernando Cony Campos, 3 - São Rafael, São Paulo - SP, 08390-315, Brasil",
+        "locationConfidence": 30.024942,
+        "calibratedProbability": 15.803792
+      }, {
+        "latitudeE7": -236312042,
+        "longitudeE7": -464500781,
+        "placeId": "ChIJ9fdjGNpozpQRNGHmmsd3axY",
+        "address": "Tv. Fernando Cony Campos, 13 - São Rafael, São Paulo - SP, 08390-315, Brasil",
+        "locationConfidence": 15.958747,
+        "calibratedProbability": 8.399973
+      }, {
+        "latitudeE7": -236310035,
+        "longitudeE7": -464503055,
+        "placeId": "ChIJKbtQPNpozpQRCVynaC5U-o8",
+        "address": "Tv. Fernando Cony Campos, 294 - São Rafael, São Paulo - SP, 08390, Brasil",
+        "name": "Favela\u0027s Bar",
+        "locationConfidence": 7.12679,
+        "calibratedProbability": 3.7512248
+      }, {
+        "latitudeE7": -236326054,
+        "longitudeE7": -464477477,
+        "placeId": "ChIJ-zKmOChpzpQR0RIsu47k3h0",
+        "address": "Av. dos Sertanistas, 1670 - Jardim Santo Andre, São Paulo - SP, 08390-240, Brasil",
+        "name": "Congregação Cristã no Brasil - Jardim São Francisco - Setor Carrão",
+        "locationConfidence": 4.401028,
+        "calibratedProbability": 2.3165052
+      }, {
+        "latitudeE7": -236302843,
+        "longitudeE7": -464505660,
+        "placeId": "ChIJM5quRdpozpQR0E5mslUFxqw",
+        "address": "Jardim Sao Francisco, São Paulo - SP, 08390, Brasil",
+        "name": "Bar Do Bahia",
+        "locationConfidence": 2.1581683,
+        "calibratedProbability": 1.1359637
+      }, {
+        "latitudeE7": -236323605,
+        "longitudeE7": -464481060,
+        "placeId": "ChIJD0UgQHhpzpQRTzsJhk6yO2I",
+        "address": "R. Elsa Morante, 62 - Jardim Sao Francisco, São Paulo - SP, 08390-324, Brasil",
+        "name": "Cei Gleba Sao Francisco",
+        "locationConfidence": 1.9166601,
+        "calibratedProbability": 1.0088445
+      }, {
+        "latitudeE7": -236324810,
+        "longitudeE7": -464476480,
+        "placeId": "ChIJnbvfEtdozpQRD8M5bCYYh24",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-310, Brasil",
+        "name": "Av. Dos Sertanistas, 1675",
+        "locationConfidence": 0.8269082,
+        "calibratedProbability": 0.4352476
+      }, {
+        "latitudeE7": -236322507,
+        "longitudeE7": -464503167,
+        "placeId": "ChIJ92CwjdlozpQR02dpF6wdySU",
+        "address": "R. Vagner de Araújo - Jardim Santo Andre, São Paulo - SP, 08390-323, Brasil",
+        "name": "Igreja Ev. No",
+        "locationConfidence": 0.6604171,
+        "calibratedProbability": 0.3476141
+      }, {
+        "latitudeE7": -236315368,
+        "longitudeE7": -464504616,
+        "placeId": "ChIJrzCmJtpozpQRATfdhhyEBpc",
+        "address": "R. Beira Rio, 130 - Jardim Sao Francisco, São Paulo - SP, 08390, Brasil",
+        "name": "Agr Bar \u0026 Mercearia Do Mineiro",
+        "locationConfidence": 0.60605735,
+        "calibratedProbability": 0.3190016
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 28,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236295440,
+        "longitudeE7": -464511717,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236365588,
+        "longitudeE7": -464482791,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T22:00:33.833Z",
+        "endTimestamp": "2020-05-03T22:32:44.769Z"
+      },
+      "distance": 848,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 62.85896897315979
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 14.517675340175629
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.69859191775322
+      }, {
+        "activityType": "STILL",
+        "probability": 8.426648378372192
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3316147029399872
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.0800853371620178
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.4436445888131857
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.17614768585190177
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.17544060247018933
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.1353108324110508
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.10086967376992106
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.03277369251009077
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.012488826178014278
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.007237135287141427
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0025059887775569223
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236295394,
+          "lngE7": -464511413
+        }, {
+          "latE7": -236301612,
+          "lngE7": -464502105
+        }, {
+          "latE7": -236365756,
+          "lngE7": -464483833
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1232.4356681740317,
+        "travelMode": "WALK",
+        "confidence": 0.7564924681190194
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236350610,
+        "longitudeE7": -464472320,
+        "placeId": "ChIJf7NI2tdozpQRouISG_bPhfQ",
+        "address": "Jardim Sao Francisco, São Paulo - SP, 08390-240, Brasil",
+        "name": "Av. Dos Sertanistas, 1480",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 32.032295,
+        "calibratedProbability": 12.531031
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T22:32:44.769Z",
+        "endTimestamp": "2020-05-03T22:43:42.488Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -236365560,
+      "centerLngE7": -464482460,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236366670,
+        "longitudeE7": -464489528,
+        "placeId": "ChIJwRGu4idpzpQRXRrPdnHVLP8",
+        "address": "Jardim Sao Francisco, São Paulo - SP, 08391-223, Brasil",
+        "name": "Bakery Nalva Padokinha",
+        "locationConfidence": 19.9341,
+        "calibratedProbability": 7.798218
+      }, {
+        "latitudeE7": -236375230,
+        "longitudeE7": -464476870,
+        "placeId": "ChIJAR0JHyZpzpQRFh8jm6CPa8I",
+        "address": "R. dos Jasmins, 10 - Parque das Flores, São Paulo - SP, 08391-210, Brasil",
+        "name": "Lanchonete Jmk Point do Açaí",
+        "locationConfidence": 8.301258,
+        "calibratedProbability": 3.2474515
+      }, {
+        "latitudeE7": -236381297,
+        "longitudeE7": -464467372,
+        "placeId": "ChIJEVxg_ChpzpQRbv5wKqL7h6c",
+        "address": "R. das Rosas - Parque das Flores, São Paulo - SP, 08391-290, Brasil",
+        "name": "Igreja Batista em parque Das Flores",
+        "locationConfidence": 7.4251366,
+        "calibratedProbability": 2.904713
+      }, {
+        "latitudeE7": -236349280,
+        "longitudeE7": -464468860,
+        "placeId": "ChIJsyJt0ddozpQRvtEYp1sCpW0",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-330, Brasil",
+        "name": "R. Ten. Félix Bittencourt, 2020",
+        "locationConfidence": 6.919513,
+        "calibratedProbability": 2.706913
+      }, {
+        "latitudeE7": -236384711,
+        "longitudeE7": -464478366,
+        "placeId": "ChIJJZwvjShpzpQRmJCKcd21RKs",
+        "address": "R. das Rosas, 324 - Parque das Flores, São Paulo - SP, 08391-220, Brasil",
+        "name": "Mercadinho NTT",
+        "locationConfidence": 6.317333,
+        "calibratedProbability": 2.4713402
+      }, {
+        "latitudeE7": -236349160,
+        "longitudeE7": -464459940,
+        "placeId": "ChIJVfVCKNZozpQRo1TLruGLztc",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-350, Brasil",
+        "name": "R. Ten. Félix Bittencourt, 62",
+        "locationConfidence": 6.105389,
+        "calibratedProbability": 2.3884277
+      }, {
+        "latitudeE7": -236374506,
+        "longitudeE7": -464492557,
+        "placeId": "ChIJZQCscShpzpQRrM7Qz0xQNZ8",
+        "address": "R. dos Jasmins, 337 - São Rafael, São Paulo - SP, 08391-210, Brasil",
+        "name": "Congregação Cristã no Brasil - Jardim Continental",
+        "locationConfidence": 6.0039563,
+        "calibratedProbability": 2.3487473
+      }, {
+        "latitudeE7": -236363870,
+        "longitudeE7": -464474469,
+        "placeId": "ChIJBxAFPChpzpQRVqoVmZDBO74",
+        "address": "Av. dos Sertanistas, 2092 - Jardim Sao Francisco, São Paulo - SP, 08390-240, Brasil",
+        "locationConfidence": 2.124969,
+        "calibratedProbability": 0.8312877
+      }, {
+        "latitudeE7": -236370417,
+        "longitudeE7": -464486986,
+        "placeId": "ChIJDZkSCyhpzpQRstyw5g3t5kc",
+        "address": "R. dos Eucaliptos, 106 - Recanto Verde do Sol, São Paulo - SP, 08391-223, Brasil",
+        "locationConfidence": 1.8665277,
+        "calibratedProbability": 0.73018545
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 25,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236365517,
+        "longitudeE7": -464482525,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236352403,
+        "longitudeE7": -464439093,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T22:43:42.488Z",
+        "endTimestamp": "2020-05-03T23:32:47.304Z"
+      },
+      "distance": 743,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 46.0266649723053
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 22.01862782239914
+      }, {
+        "activityType": "STILL",
+        "probability": 20.787857472896576
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.96319043636322
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.709054596722126
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.0297956876456738
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.5867576692253351
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2969952533021569
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.20887493155896664
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15350570902228355
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.13761259615421295
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.04376659635454416
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.02095928357448429
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.013585260603576899
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002743583536357619
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236365737,
+          "lngE7": -464483833
+        }, {
+          "latE7": -236352958,
+          "lngE7": -464484596
+        }, {
+          "latE7": -236353549,
+          "lngE7": -464484443
+        }, {
+          "latE7": -236361827,
+          "lngE7": -464447822
+        }, {
+          "latE7": -236352500,
+          "lngE7": -464438972
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1057.5005163512676,
+        "travelMode": "WALK",
+        "confidence": 0.999157911192084
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -236353073,
+          "lngE7": -464481773,
+          "accuracyMeters": 82,
+          "timestamp": "2020-05-03T23:26:26.973Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236350629,
+        "longitudeE7": -464438007,
+        "placeId": "ChIJk7NhtdVozpQRtGAskQNwAdc",
+        "address": "R. Miguel Ferreira de Melo, 120 - Jardim Santo Andre, São Paulo - SP, 08390-390, Brasil",
+        "name": "Padaria Nova Daf",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 37.94036,
+        "calibratedProbability": 20.35216,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T23:32:47.304Z",
+        "endTimestamp": "2020-05-03T23:38:50.415Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": -236352350,
+      "centerLngE7": -464438775,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236363560,
+        "longitudeE7": -464447550,
+        "placeId": "ChIJX-sIkClpzpQRICbITZTGZiE",
+        "address": "Parque das Flores, São Paulo - SP, 08391-210, Brasil",
+        "name": "Estr. Adutora Do Rio Claro",
+        "locationConfidence": 33.032417,
+        "calibratedProbability": 17.719416
+      }, {
+        "latitudeE7": -236353390,
+        "longitudeE7": -464438280,
+        "placeId": "ChIJa_gtHyppzpQRUeOBTvxjE6g",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-000, Brasil",
+        "name": "R. Miguel Ferreira De Melo, 51",
+        "locationConfidence": 16.674997,
+        "calibratedProbability": 8.944886
+      }, {
+        "latitudeE7": -236353930,
+        "longitudeE7": -464439780,
+        "placeId": "ChIJtwSmHyppzpQRvcot6YxWKMI",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-000, Brasil",
+        "name": "R. Miguel Ferreira De Melo, 29",
+        "locationConfidence": 2.791153,
+        "calibratedProbability": 1.4972442
+      }, {
+        "latitudeE7": -236353533,
+        "longitudeE7": -464438134,
+        "placeId": "ChIJoe1NYs1pzpQRH37APJ5qg2g",
+        "address": "R. Clélia, 222 - Vila Pires, Santo André - SP, 09130-010, Brasil",
+        "name": "Alessandra Rocha",
+        "locationConfidence": 2.5255947,
+        "calibratedProbability": 1.3547922
+      }, {
+        "latitudeE7": -236349300,
+        "longitudeE7": -464445250,
+        "placeId": "ChIJ1z-8IdZozpQRfqojOsb0hzU",
+        "address": "R. Condé de Ericeira, 8 - Sao Rafael, São Paulo - SP, 08390-390, Brasil",
+        "name": "Pizzaria El-Shadai",
+        "locationConfidence": 2.4482818,
+        "calibratedProbability": 1.3133196
+      }, {
+        "latitudeE7": -236351558,
+        "longitudeE7": -464434271,
+        "placeId": "ChIJy7N4dippzpQR_2qAqre59wk",
+        "address": "R. José de Sá e Arruda, 55 - Jardim Santo Andre, São Paulo - SP, 08390-030, Brasil",
+        "name": "Max Carnes",
+        "locationConfidence": 1.5306644,
+        "calibratedProbability": 0.8210867
+      }, {
+        "latitudeE7": -236343501,
+        "longitudeE7": -464433551,
+        "placeId": "ChIJNfDgDippzpQRXyUCikicdZ8",
+        "address": "R. Miguel Ferreira de Melo, 123 - Jardim Santo Andre, São Paulo - SP, 08390-000, Brasil",
+        "name": "Drogaleste",
+        "locationConfidence": 0.83688223,
+        "calibratedProbability": 0.44892457
+      }, {
+        "latitudeE7": -236335800,
+        "longitudeE7": -464429360,
+        "placeId": "ChIJU9dJ89VozpQRIpodMukcduk",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-000, Brasil",
+        "name": "R. Miguel Ferreira De Melo, 70",
+        "locationConfidence": 0.8151759,
+        "calibratedProbability": 0.43728074
+      }, {
+        "latitudeE7": -236349030,
+        "longitudeE7": -464433990,
+        "placeId": "ChIJR3zvECppzpQR2AciSSL8o2I",
+        "address": "Jardim Santo Andre, São Paulo - SP, 08390-000, Brasil",
+        "name": "R. Miguel Ferreira De Melo, 21",
+        "locationConfidence": 0.593859,
+        "calibratedProbability": 0.31856084
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 31,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236352920,
+        "longitudeE7": -464439309,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236133221,
+        "longitudeE7": -464762814,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T23:38:50.415Z",
+        "endTimestamp": "2020-05-03T23:56:59.246Z"
+      },
+      "distance": 5537,
+      "activityType": "IN_BUS",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 63.32724690437317
+      }, {
+        "activityType": "WALKING",
+        "probability": 21.087662875652313
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.07276400923729
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.032340317964554
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.003575675189495
+      }, {
+        "activityType": "STILL",
+        "probability": 0.5859348457306623
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4258381202816963
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.21684723906219006
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.12290277518332005
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05876998766325414
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.031871849205344915
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.01821050827857107
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.009260921797249466
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006373592623276636
+      }, {
+        "activityType": "SAILING",
+        "probability": 3.956841283070389E-4
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -236353390,
+          "longitudeE7": -464438280,
+          "placeId": "ChIJa_gtHyppzpQRUeOBTvxjE6g",
+          "address": "Jardim Santo Andre, São Paulo - SP, 08390-000, Brasil",
+          "name": "R. Miguel Ferreira De Melo, 51"
+        }, {
+          "latitudeE7": -236125889,
+          "longitudeE7": -464764592,
+          "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+          "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+          "name": "Termiinal De São Mateus"
+        }],
+        "name": "4013-10",
+        "hexRgbColor": "EE1C25",
+        "linePlaceId": "ChIJg1dpaepozpQR-buMCdDjlas",
+        "source": "INFERRED",
+        "confidence": 0.8163288782701149,
+        "distanceMeters": 6628.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -236317602,
+          "lngE7": -464427926,
+          "accuracyMeters": 21,
+          "timestamp": "2020-05-03T23:40:51.355Z"
+        }, {
+          "latE7": -236263714,
+          "lngE7": -464459991,
+          "accuracyMeters": 22,
+          "timestamp": "2020-05-03T23:42:52.404Z"
+        }, {
+          "latE7": -236228339,
+          "lngE7": -464491412,
+          "accuracyMeters": 28,
+          "timestamp": "2020-05-03T23:44:53.412Z"
+        }, {
+          "latE7": -236210969,
+          "lngE7": -464565623,
+          "accuracyMeters": 150,
+          "timestamp": "2020-05-03T23:46:53.454Z"
+        }, {
+          "latE7": -236260833,
+          "lngE7": -464598437,
+          "accuracyMeters": 21,
+          "timestamp": "2020-05-03T23:48:56.044Z"
+        }, {
+          "latE7": -236253642,
+          "lngE7": -464634119,
+          "accuracyMeters": 41,
+          "timestamp": "2020-05-03T23:50:57.106Z"
+        }, {
+          "latE7": -236117233,
+          "lngE7": -464749136,
+          "accuracyMeters": 150,
+          "timestamp": "2020-05-03T23:54:58.143Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5500.3339944322415
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236125889,
+        "longitudeE7": -464764592,
+        "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+        "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Termiinal De São Mateus",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 83.31891,
+        "calibratedProbability": 71.39,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-05-03T23:56:59.246Z",
+        "endTimestamp": "2020-05-04T00:03:02.302Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236134300,
+      "centerLngE7": -464759225,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236122514,
+        "longitudeE7": -464773891,
+        "placeId": "ChIJzT_nfP5pzpQRxmLx0AFdKIA",
+        "address": "Av. Sapopemba, 15.000 - Jardim Adutora, São Paulo - SP, 03970-000, Brasil",
+        "name": "Estação São Mateus monotrilho.",
+        "locationConfidence": 8.345561,
+        "calibratedProbability": 7.150713
+      }, {
+        "latitudeE7": -236122579,
+        "longitudeE7": -464773911,
+        "placeId": "ChIJnXnf44dpzpQR7zcqorZ5L_U",
+        "locationConfidence": 2.8831635,
+        "calibratedProbability": 2.470376
+      }, {
+        "latitudeE7": -236142520,
+        "longitudeE7": -464761120,
+        "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+        "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Terminal de São Mateus",
+        "locationConfidence": 1.2808583,
+        "calibratedProbability": 1.0974756
+      }, {
+        "latitudeE7": -236126058,
+        "longitudeE7": -464754936,
+        "placeId": "ChIJ78d6KIdozpQR-j3yQjly4Ek",
+        "address": "Av. Adélia Chohfi, 1000 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Drogarias Bifarma",
+        "locationConfidence": 1.2711725,
+        "calibratedProbability": 1.0891765
+      }, {
+        "latitudeE7": -236133472,
+        "longitudeE7": -464756452,
+        "placeId": "ChIJv_qkHodozpQRpBfXR3jVmB4",
+        "address": "Av. Adélia Chohfi, 91 - São Mateus, São Paulo - SP, 08330-037, Brasil",
+        "name": "São Mateus Distribuidora de Vidros",
+        "locationConfidence": 0.7514263,
+        "calibratedProbability": 0.6438433
+      }, {
+        "latitudeE7": -236115359,
+        "longitudeE7": -464744707,
+        "placeId": "ChIJ69U8MYFozpQREs1JtJzWS24",
+        "address": "Av. Ragueb Chohfi, 58 - Jardim Três Marias, São Paulo - SP, 08375-000, Brasil",
+        "name": "Assai São Mateus",
+        "locationConfidence": 0.5346182,
+        "calibratedProbability": 0.458076
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236135172,
+        "longitudeE7": -464758364,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236375796,
+        "longitudeE7": -465255405,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T00:03:02.302Z",
+        "endTimestamp": "2020-05-04T00:33:20.450Z"
+      },
+      "distance": 7252,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 53.498995304107666
+      }, {
+        "activityType": "WALKING",
+        "probability": 32.77313411235809
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.045351088047028
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.11860865727067
+      }, {
+        "activityType": "STILL",
+        "probability": 0.8810798637568951
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6969692651182413
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.48088920302689075
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2639707177877426
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.059833930572494864
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05567812477238476
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.052075309213250875
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.04654886724893004
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.016710224736016244
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0095178751507774
+      }, {
+        "activityType": "SAILING",
+        "probability": 6.404751275113085E-4
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -236125889,
+          "longitudeE7": -464764592,
+          "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+          "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+          "name": "Termiinal De São Mateus"
+        }, {
+          "latitudeE7": -236411711,
+          "longitudeE7": -465214606,
+          "placeId": "ChIJDeamP6JCzpQRs6WZntuuhho",
+          "address": "Bangú, Santo André - SP, 09380-240, Brasil",
+          "name": "Parada Lituânia"
+        }],
+        "name": "285",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJYca-oddpzpQRp0SlJKcX-cE",
+        "source": "INFERRED",
+        "confidence": 0.7403267515930316,
+        "distanceMeters": 6540.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -236135172,
+          "lngE7": -464758364,
+          "accuracyMeters": 63,
+          "timestamp": "2020-05-04T00:03:02.302Z"
+        }, {
+          "latE7": -236209540,
+          "lngE7": -464785934,
+          "accuracyMeters": 24,
+          "timestamp": "2020-05-04T00:05:03.354Z"
+        }, {
+          "latE7": -236239297,
+          "lngE7": -464863483,
+          "accuracyMeters": 49,
+          "timestamp": "2020-05-04T00:07:04.040Z"
+        }, {
+          "latE7": -236262772,
+          "lngE7": -464963013,
+          "accuracyMeters": 54,
+          "timestamp": "2020-05-04T00:09:05.092Z"
+        }, {
+          "latE7": -236278587,
+          "lngE7": -465078439,
+          "accuracyMeters": 21,
+          "timestamp": "2020-05-04T00:11:06.115Z"
+        }, {
+          "latE7": -236352629,
+          "lngE7": -465141002,
+          "accuracyMeters": 35,
+          "timestamp": "2020-05-04T00:15:11.695Z"
+        }, {
+          "latE7": -236421959,
+          "lngE7": -465215499,
+          "accuracyMeters": 150,
+          "timestamp": "2020-05-04T00:17:03.402Z"
+        }, {
+          "latE7": -236382409,
+          "lngE7": -465195038,
+          "accuracyMeters": 150,
+          "timestamp": "2020-05-04T00:23:45.981Z"
+        }, {
+          "latE7": -236377238,
+          "lngE7": -465244576,
+          "accuracyMeters": 17,
+          "timestamp": "2020-05-04T00:29:14.154Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 7704.160334050398
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "Rua Suíça, 163 - Parque das Nações, Santo André - São Paulo, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 66.95071,
+        "calibratedProbability": 39.1055
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T00:33:20.450Z",
+        "endTimestamp": "2020-05-04T15:45:52.800Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -236371955,
+      "centerLngE7": -465270227,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236372814,
+        "longitudeE7": -465276335,
+        "placeId": "ChIJb8m84rpCzpQRxPGXOsuNu_M",
+        "address": "R. Suíça, 95 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "SEDE FUABC",
+        "locationConfidence": 11.513508,
+        "calibratedProbability": 6.7249694
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 4.5753493,
+        "calibratedProbability": 2.6724336
+      }, {
+        "latitudeE7": -236384376,
+        "longitudeE7": -465260193,
+        "placeId": "ChIJfzAPTbtCzpQR_3NjCSSBVks",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 94",
+        "locationConfidence": 3.6984012,
+        "calibratedProbability": 2.1602135
+      }, {
+        "latitudeE7": -236373143,
+        "longitudeE7": -465263899,
+        "placeId": "ChIJW-peL7tCzpQRhAdK6tSqlgM",
+        "address": "R. Japão, 132 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Sol Nascente",
+        "locationConfidence": 3.6800804,
+        "calibratedProbability": 2.1495125
+      }, {
+        "latitudeE7": -236376431,
+        "longitudeE7": -465272252,
+        "placeId": "ChIJXXgZH7tCzpQRFikWAGBe6Xc",
+        "address": "R. Suíça, 140 - Parque das Nações, Santo André - SP, 18307-345, Brasil",
+        "name": "Condonimio Edifício Royale",
+        "locationConfidence": 3.4513977,
+        "calibratedProbability": 2.0159402
+      }, {
+        "latitudeE7": -236363804,
+        "longitudeE7": -465279915,
+        "placeId": "ChIJh-3EirpCzpQR_28SI-jexaE",
+        "address": "R. Espanha, 186 - Parque das Nações, Santo André - SP, 09210-010, Brasil",
+        "name": "Condomínio Edifício Coesta Del Sol",
+        "locationConfidence": 1.6883818,
+        "calibratedProbability": 0.98617345
+      }, {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "locationConfidence": 0.97313315,
+        "calibratedProbability": 0.5684011
+      }, {
+        "latitudeE7": -236376118,
+        "longitudeE7": -465253346,
+        "placeId": "ChIJfWBuyKRCzpQRKx6ZNyyM8aw",
+        "address": "R. Suíça, 326 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Cond. Suiça",
+        "locationConfidence": 0.93551123,
+        "calibratedProbability": 0.54642636
+      }, {
+        "latitudeE7": -236386331,
+        "longitudeE7": -465245171,
+        "placeId": "ChIJyQoZYKNCzpQRlp2XrZ6I96U",
+        "address": "Av. Brasil, 3 - Parque das Nações, Santo André - SP, 09210-280, Brasil",
+        "name": "Condomínio Edifício Del Rey",
+        "locationConfidence": 0.8125696,
+        "calibratedProbability": 0.47461694
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 89.63346,
+        "calibratedProbability": 62.397484
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T15:45:52.800Z",
+        "endTimestamp": "2020-05-04T16:00:06.563Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236387600,
+      "centerLngE7": -465265817,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "R. Suíça, 163 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "locationConfidence": 4.45989,
+        "calibratedProbability": 3.10471
+      }, {
+        "latitudeE7": -236382996,
+        "longitudeE7": -465267537,
+        "placeId": "ChIJ9wLMOLtCzpQRfkKszPvcrPs",
+        "address": "R. Japão, 17 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Sabichões Pet Store - O melhor para o seu Pet",
+        "locationConfidence": 1.6013916,
+        "calibratedProbability": 1.1147935
+      }, {
+        "latitudeE7": -236384840,
+        "longitudeE7": -465264852,
+        "placeId": "ChIJeQgmTbtCzpQRKeQv9P4EHnA",
+        "address": "Praça Chile, 275 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Transportes Coletivos Parque das Nações Ltda.",
+        "locationConfidence": 1.4964684,
+        "calibratedProbability": 1.0417523
+      }, {
+        "latitudeE7": -236391069,
+        "longitudeE7": -465266084,
+        "placeId": "ChIJmWUuUbtCzpQRYNutBY43NxI",
+        "address": "Praça Chile, 40-154 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Farma\u0026Cia",
+        "locationConfidence": 0.7692452,
+        "calibratedProbability": 0.53550273
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 0.45759386,
+        "calibratedProbability": 0.31854963
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "Rua Suíça, 163 - Parque das Nações, Santo André - São Paulo, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 61.782333,
+        "calibratedProbability": 26.656485
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T16:00:06.563Z",
+        "endTimestamp": "2020-06-06T13:30:08.498Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236372273,
+      "centerLngE7": -465270973,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236372814,
+        "longitudeE7": -465276335,
+        "placeId": "ChIJb8m84rpCzpQRxPGXOsuNu_M",
+        "address": "R. Suíça, 95 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "SEDE FUABC",
+        "locationConfidence": 18.977894,
+        "calibratedProbability": 8.188165
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 4.121385,
+        "calibratedProbability": 1.7782048
+      }, {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "locationConfidence": 4.0105157,
+        "calibratedProbability": 1.7303692
+      }, {
+        "latitudeE7": -236376431,
+        "longitudeE7": -465272252,
+        "placeId": "ChIJXXgZH7tCzpQRFikWAGBe6Xc",
+        "address": "R. Suíça, 140 - Parque das Nações, Santo André - SP, 18307-345, Brasil",
+        "name": "Condonimio Edifício Royale",
+        "locationConfidence": 3.486164,
+        "calibratedProbability": 1.5041336
+      }, {
+        "latitudeE7": -236384376,
+        "longitudeE7": -465260193,
+        "placeId": "ChIJfzAPTbtCzpQR_3NjCSSBVks",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 94",
+        "locationConfidence": 2.0038576,
+        "calibratedProbability": 0.8645805
+      }, {
+        "latitudeE7": -236373143,
+        "longitudeE7": -465263899,
+        "placeId": "ChIJW-peL7tCzpQRhAdK6tSqlgM",
+        "address": "R. Japão, 132 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Sol Nascente",
+        "locationConfidence": 1.3313836,
+        "calibratedProbability": 0.5744361
+      }, {
+        "latitudeE7": -236398846,
+        "longitudeE7": -465263880,
+        "placeId": "ChIJX8z-r7xCzpQRJKyU2kdCEGM",
+        "address": "Vila Sao Pedro, Santo André - SP, 09210-260, Brasil",
+        "name": "Rua Paulina Isabel de Queirós, 446-452",
+        "locationConfidence": 1.3092976,
+        "calibratedProbability": 0.56490695
+      }, {
+        "latitudeE7": -236399235,
+        "longitudeE7": -465263050,
+        "placeId": "ChIJLRhMsLxCzpQRqrjA1iF_wYE",
+        "address": "R. Paulina Isabel de Queirós, 446 - Vila Sao Pedro, Santo André - SP, 09210-260, Brasil",
+        "name": "Instituto de Ensino Portinari - Unidade I",
+        "locationConfidence": 0.8546066,
+        "calibratedProbability": 0.3687269
+      }, {
+        "latitudeE7": -236363804,
+        "longitudeE7": -465279915,
+        "placeId": "ChIJh-3EirpCzpQR_28SI-jexaE",
+        "address": "R. Espanha, 186 - Parque das Nações, Santo André - SP, 09210-010, Brasil",
+        "name": "Condomínio Edifício Coesta Del Sol",
+        "locationConfidence": 0.65445715,
+        "calibratedProbability": 0.2823708
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

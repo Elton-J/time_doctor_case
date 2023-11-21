@@ -1,0 +1,1526 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "Rua Suíça, 163 - Parque das Nações, Santo André - São Paulo, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 47.67532,
+        "calibratedProbability": 29.983858
+      },
+      "duration": {
+        "startTimestamp": "2020-04-14T18:27:38.411Z",
+        "endTimestamp": "2020-04-15T14:59:30.454Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236372509,
+      "centerLngE7": -465272001,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236372814,
+        "longitudeE7": -465276335,
+        "placeId": "ChIJb8m84rpCzpQRxPGXOsuNu_M",
+        "address": "R. Suíça, 95 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "SEDE FUABC",
+        "locationConfidence": 19.33254,
+        "calibratedProbability": 12.15858
+      }, {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "locationConfidence": 11.558732,
+        "calibratedProbability": 7.2694926
+      }, {
+        "latitudeE7": -236384840,
+        "longitudeE7": -465264852,
+        "placeId": "ChIJeQgmTbtCzpQRKeQv9P4EHnA",
+        "address": "Praça Chile, 275 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Transportes Coletivos Parque das Nações Ltda.",
+        "locationConfidence": 6.6296945,
+        "calibratedProbability": 4.1695333
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 4.329955,
+        "calibratedProbability": 2.723186
+      }, {
+        "latitudeE7": -236376431,
+        "longitudeE7": -465272252,
+        "placeId": "ChIJXXgZH7tCzpQRFikWAGBe6Xc",
+        "address": "R. Suíça, 140 - Parque das Nações, Santo André - SP, 18307-345, Brasil",
+        "name": "Condonimio Edifício Royale",
+        "locationConfidence": 3.4775712,
+        "calibratedProbability": 2.1871066
+      }, {
+        "latitudeE7": -236384376,
+        "longitudeE7": -465260193,
+        "placeId": "ChIJfzAPTbtCzpQR_3NjCSSBVks",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 94",
+        "locationConfidence": 2.1089983,
+        "calibratedProbability": 1.3263867
+      }, {
+        "latitudeE7": -236366828,
+        "longitudeE7": -465254639,
+        "placeId": "ChIJQ9P5KqVCzpQRnzAya22H0wg",
+        "address": "R. Espanha, 440 - Parque das Nações, Santo André - SP, 09210-010, Brasil",
+        "name": "Condominium building Di Spain",
+        "locationConfidence": 2.0588923,
+        "calibratedProbability": 1.2948741
+      }, {
+        "latitudeE7": -236389632,
+        "longitudeE7": -465256391,
+        "placeId": "ChIJqcmeq7xCzpQRjWZWqkP0TSE",
+        "address": "Praça Chile, 130 - apto 92 apto 92 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Condomínio Edifício Volans",
+        "locationConfidence": 1.1311404,
+        "calibratedProbability": 0.71139437
+      }, {
+        "latitudeE7": -236373143,
+        "longitudeE7": -465263899,
+        "placeId": "ChIJW-peL7tCzpQRhAdK6tSqlgM",
+        "address": "R. Japão, 132 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Sol Nascente",
+        "locationConfidence": 0.6675297,
+        "calibratedProbability": 0.41982135
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236374469,
+        "longitudeE7": -465266939,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236333894,
+        "longitudeE7": -465315078,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T14:59:30.454Z",
+        "endTimestamp": "2020-04-15T15:12:29.717Z"
+      },
+      "distance": 666,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 66.78366661071777
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.450055599212646
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.6764100193977356
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.675169497728348
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.8293028473854065
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.2834526598453522
+      }, {
+        "activityType": "STILL",
+        "probability": 1.0445201769471169
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07603543344885111
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.07327357307076454
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04226634628139436
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.037840724689885974
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.014764744264539331
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.007483729859814048
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004534952313406393
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.00122971432574559
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236374225,
+          "lngE7": -465266914
+        }, {
+          "latE7": -236378288,
+          "lngE7": -465290489
+        }, {
+          "latE7": -236334190,
+          "lngE7": -465314369
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1015.3777774056092,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236336642,
+        "longitudeE7": -465316375,
+        "placeId": "ChIJ0z-m3rZCzpQR-bAL3cE48AY",
+        "address": "Alameda Vieira de Carvalho, 209 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "Builder\u0027s House",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 53.27882,
+        "calibratedProbability": 29.321438
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T15:12:29.717Z",
+        "endTimestamp": "2020-04-15T15:23:17.682Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236335743,
+      "centerLngE7": -465315964,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236333829,
+        "longitudeE7": -465315510,
+        "placeId": "ChIJtzU-27ZCzpQRftKbQFdYRVM",
+        "address": "Alameda Vieira de Carvalho, 245 - Utinga, Santo André - SP, 09210-630, Brasil",
+        "name": "Banco Santander - Agência 0229 Utinga",
+        "locationConfidence": 39.46779,
+        "calibratedProbability": 21.720682
+      }, {
+        "latitudeE7": -236338382,
+        "longitudeE7": -465317901,
+        "placeId": "ChIJq6ob3rZCzpQRvgyfNYyX7ZM",
+        "address": "Alameda Vieira de Carvalho, 187 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "Cacau Show",
+        "locationConfidence": 1.2866577,
+        "calibratedProbability": 0.70809853
+      }, {
+        "latitudeE7": -236334880,
+        "longitudeE7": -465313860,
+        "placeId": "ChIJNzhA2rZCzpQRtIqwEFMk1DI",
+        "address": "Alameda Vieira de Carvalho, 230 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "Foto e Papelaria Kampai",
+        "locationConfidence": 1.1000608,
+        "calibratedProbability": 0.60540694
+      }, {
+        "latitudeE7": -236334880,
+        "longitudeE7": -465313860,
+        "placeId": "ChIJsSEXdn9DzpQRTIMfUXsVtCw",
+        "address": "Alameda Vieira de Carvalho, 230B - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "Império Real",
+        "locationConfidence": 0.81954855,
+        "calibratedProbability": 0.45102993
+      }, {
+        "latitudeE7": -236317220,
+        "longitudeE7": -465293120,
+        "placeId": "ChIJxY1rQrFCzpQRzdxyuOjNo-E",
+        "address": "Av. Estados Unidos, 948 - Parque das Nações, Santo André - SP, 09210-300, Brasil",
+        "name": "Sodiê Doces",
+        "locationConfidence": 0.58762664,
+        "calibratedProbability": 0.32339415
+      }, {
+        "latitudeE7": -236344565,
+        "longitudeE7": -465318520,
+        "placeId": "ChIJAQBkIrdCzpQRhbyPjh6YF4E",
+        "address": "Alameda Vieira de Carvalho, 112 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "Banco Itaú - Agência 6664",
+        "locationConfidence": 0.57843304,
+        "calibratedProbability": 0.31833455
+      }, {
+        "latitudeE7": -236336038,
+        "longitudeE7": -465313253,
+        "placeId": "ChIJj78o2rZCzpQRLEGn7BaAODo",
+        "address": "Alameda Vieira de Carvalho, 220 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "Universal Church of the Kingdom of God",
+        "locationConfidence": 0.5677027,
+        "calibratedProbability": 0.31242922
+      }, {
+        "latitudeE7": -236336726,
+        "longitudeE7": -465317541,
+        "placeId": "ChIJm2u23rZCzpQRH3QrNW8z_-4",
+        "address": "Alameda Vieira de Carvalho, 193 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "CVC Loja Santa Terezinha",
+        "locationConfidence": 0.49696982,
+        "calibratedProbability": 0.2735021
+      }, {
+        "latitudeE7": -236325739,
+        "longitudeE7": -465311359,
+        "placeId": "ChIJIQKTRzBDzpQRNrDHwNg5vvk",
+        "address": "Alameda Vieira de Carvalho, 333 - Santa Teresinha, Santo André - SP, 09210-630, Brasil",
+        "name": "BANCO DO BRASIL - BAIRRO STA.TEREZINHA - Agência 6973",
+        "locationConfidence": 0.47385973,
+        "calibratedProbability": 0.26078373
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236344991,
+        "longitudeE7": -465320661,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236374000,
+        "longitudeE7": -465267055,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T15:23:17.682Z",
+        "endTimestamp": "2020-04-15T15:40:00.844Z"
+      },
+      "distance": 763,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 54.14944291114807
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 32.83389508724213
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 3.368506208062172
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.0609378591179848
+      }, {
+        "activityType": "STILL",
+        "probability": 2.5178970769047737
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.3691050708293915
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.2762884609401226
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15096566639840603
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10707997716963291
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0891421630512923
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.05092555074952543
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.012106660142308101
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0062825201894156635
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.005944132863078266
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0014769205336051527
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236344833,
+          "lngE7": -465320968
+        }, {
+          "latE7": -236378288,
+          "lngE7": -465290489
+        }, {
+          "latE7": -236374206,
+          "lngE7": -465267105
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 922.5835134448748,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "Rua Suíça, 163 - Parque das Nações, Santo André - São Paulo, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 69.67266,
+        "calibratedProbability": 39.50653
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T15:40:00.844Z",
+        "endTimestamp": "2020-04-21T19:22:04.530Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -236372391,
+      "centerLngE7": -465268541,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236372814,
+        "longitudeE7": -465276335,
+        "placeId": "ChIJb8m84rpCzpQRxPGXOsuNu_M",
+        "address": "R. Suíça, 95 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "SEDE FUABC",
+        "locationConfidence": 14.951283,
+        "calibratedProbability": 8.477836
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 4.304904,
+        "calibratedProbability": 2.4410124
+      }, {
+        "latitudeE7": -236384376,
+        "longitudeE7": -465260193,
+        "placeId": "ChIJfzAPTbtCzpQR_3NjCSSBVks",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 94",
+        "locationConfidence": 2.3618934,
+        "calibratedProbability": 1.339266
+      }, {
+        "latitudeE7": -236376431,
+        "longitudeE7": -465272252,
+        "placeId": "ChIJXXgZH7tCzpQRFikWAGBe6Xc",
+        "address": "R. Suíça, 140 - Parque das Nações, Santo André - SP, 18307-345, Brasil",
+        "name": "Condonimio Edifício Royale",
+        "locationConfidence": 1.9269335,
+        "calibratedProbability": 1.0926304
+      }, {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "locationConfidence": 1.8301756,
+        "calibratedProbability": 1.0377656
+      }, {
+        "latitudeE7": -236373143,
+        "longitudeE7": -465263899,
+        "placeId": "ChIJW-peL7tCzpQRhAdK6tSqlgM",
+        "address": "R. Japão, 132 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Sol Nascente",
+        "locationConfidence": 1.5391964,
+        "calibratedProbability": 0.8727715
+      }, {
+        "latitudeE7": -236399235,
+        "longitudeE7": -465263050,
+        "placeId": "ChIJLRhMsLxCzpQRqrjA1iF_wYE",
+        "address": "R. Paulina Isabel de Queirós, 446 - Vila Sao Pedro, Santo André - SP, 09210-260, Brasil",
+        "name": "Instituto de Ensino Portinari - Unidade I",
+        "locationConfidence": 1.2541164,
+        "calibratedProbability": 0.7111224
+      }, {
+        "latitudeE7": -236363804,
+        "longitudeE7": -465279915,
+        "placeId": "ChIJh-3EirpCzpQR_28SI-jexaE",
+        "address": "R. Espanha, 186 - Parque das Nações, Santo André - SP, 09210-010, Brasil",
+        "name": "Condomínio Edifício Coesta Del Sol",
+        "locationConfidence": 0.67500955,
+        "calibratedProbability": 0.38275108
+      }, {
+        "latitudeE7": -236378660,
+        "longitudeE7": -465267280,
+        "placeId": "ChIJHwO6ObtCzpQRe-WNtir18qk",
+        "address": "R. Japão, 55 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Oriente",
+        "locationConfidence": 0.4924867,
+        "calibratedProbability": 0.27925503
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 56,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236371461,
+        "longitudeE7": -465272079,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236135737,
+        "longitudeE7": -464761515,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-21T19:22:04.530Z",
+        "endTimestamp": "2020-04-21T19:48:45.910Z"
+      },
+      "distance": 5824,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 38.641101121902466
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 27.28392481803894
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 22.841744124889374
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 4.920079559087753
+      }, {
+        "activityType": "STILL",
+        "probability": 1.811748743057251
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.3630418106913567
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.8957995101809502
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.7127317134290934
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5979609210044146
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.38721165619790554
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.3302622586488724
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.14682011678814888
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03220540820620954
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.020808698900509626
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0145543715916574
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236373615,
+          "lngE7": -465272331
+        }, {
+          "latE7": -236230926,
+          "lngE7": -464803733
+        }, {
+          "latE7": -236135578,
+          "lngE7": -464762229
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 7054.82042170053,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236125889,
+        "longitudeE7": -464764592,
+        "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+        "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Termiinal De São Mateus",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 85.41164,
+        "calibratedProbability": 62.4035,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-21T19:48:45.910Z",
+        "endTimestamp": "2020-04-21T20:03:07.362Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236136860,
+      "centerLngE7": -464765720,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236122514,
+        "longitudeE7": -464773891,
+        "placeId": "ChIJzT_nfP5pzpQRxmLx0AFdKIA",
+        "address": "Av. Sapopemba, 15.000 - Jardim Adutora, São Paulo - SP, 03970-000, Brasil",
+        "name": "Estação São Mateus monotrilho.",
+        "locationConfidence": 5.6842422,
+        "calibratedProbability": 4.1530247
+      }, {
+        "latitudeE7": -236142520,
+        "longitudeE7": -464761120,
+        "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+        "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Terminal de São Mateus",
+        "locationConfidence": 2.3432827,
+        "calibratedProbability": 1.7120507
+      }, {
+        "latitudeE7": -236122579,
+        "longitudeE7": -464773911,
+        "placeId": "ChIJnXnf44dpzpQR7zcqorZ5L_U",
+        "locationConfidence": 2.07201,
+        "calibratedProbability": 1.5138532
+      }, {
+        "latitudeE7": -236126058,
+        "longitudeE7": -464754936,
+        "placeId": "ChIJ78d6KIdozpQR-j3yQjly4Ek",
+        "address": "Av. Adélia Chohfi, 1000 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+        "name": "Drogarias Bifarma",
+        "locationConfidence": 1.3858176,
+        "calibratedProbability": 1.012507
+      }, {
+        "latitudeE7": -236131065,
+        "longitudeE7": -464768559,
+        "placeId": "ChIJw9W8RodozpQRl22pWwglMqg",
+        "address": "Rua Ministro Luís Sparano, 617 - Jardim Santa Adelia, São Paulo - SP, 03970-050, Brasil",
+        "name": "Viação Cometa - Agência São Mateus",
+        "locationConfidence": 0.96909714,
+        "calibratedProbability": 0.7080423
+      }, {
+        "latitudeE7": -236115359,
+        "longitudeE7": -464744707,
+        "placeId": "ChIJ69U8MYFozpQREs1JtJzWS24",
+        "address": "Av. Ragueb Chohfi, 58 - Jardim Três Marias, São Paulo - SP, 08375-000, Brasil",
+        "name": "Assai São Mateus",
+        "locationConfidence": 0.76725215,
+        "calibratedProbability": 0.56057024
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236141441,
+        "longitudeE7": -464768710,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -235864514,
+        "longitudeE7": -463837244,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-21T20:03:07.362Z",
+        "endTimestamp": "2020-04-21T20:55:57.916Z"
+      },
+      "distance": 12559,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 47.54962921142578
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.299733221530914
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.911841928958893
+      }, {
+        "activityType": "STILL",
+        "probability": 10.540374368429184
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.6379406675696373
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6523795891553164
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4485077690333128
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.43422640301287174
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.19724974408745766
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.17607967602089047
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.06968948291614652
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.035616030800156295
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.030700609204359353
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.013254248187877238
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002776476503640879
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -236125889,
+          "longitudeE7": -464764592,
+          "placeId": "ChIJSx35SYdozpQRfCXkF2oEDVc",
+          "address": "Av. Adélia Chohfi, 100 - Jardim Vera Cruz(Zona Leste), São Paulo - SP, 08320-390, Brasil",
+          "name": "Termiinal De São Mateus"
+        }, {
+          "latitudeE7": -235987710,
+          "longitudeE7": -464641830,
+          "placeId": "ChIJYTBXoCZmzpQR-etR4LBhiFI",
+          "address": "Parque São Lourenço, São Paulo - SP, 08375, Brasil",
+          "name": "Av. Ragueb Chohfi, 2110"
+        }],
+        "name": "3054-10",
+        "hexRgbColor": "EE1C25",
+        "linePlaceId": "ChIJ23kYk6ZozpQRq56bEcD7Wcg",
+        "source": "INFERRED",
+        "confidence": 0.4602935486278202,
+        "distanceMeters": 2731.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -236141441,
+          "lngE7": -464768710,
+          "accuracyMeters": 27,
+          "timestamp": "2020-04-21T20:03:07.362Z"
+        }, {
+          "latE7": -236078443,
+          "lngE7": -464725202,
+          "accuracyMeters": 25,
+          "timestamp": "2020-04-21T20:07:09.549Z"
+        }, {
+          "latE7": -236022702,
+          "lngE7": -464596123,
+          "accuracyMeters": 73,
+          "timestamp": "2020-04-21T20:11:12.668Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3067.7395669209936
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -235866937,
+        "longitudeE7": -463845450,
+        "placeId": "ChIJ06P_WpJvzpQRJX1cspwgvnM",
+        "address": "Conj. Hab. Sitio Conceicao, São Paulo - SP, 08473-872, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 56.20594,
+        "calibratedProbability": 24.630373
+      },
+      "duration": {
+        "startTimestamp": "2020-04-21T20:55:57.916Z",
+        "endTimestamp": "2020-04-22T20:40:10.922Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -235867054,
+      "centerLngE7": -463846092,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": -235866560,
+        "longitudeE7": -463862830,
+        "placeId": "ChIJW0f7HpJvzpQRjPUxjC43oMg",
+        "address": "Cidade Tiradentes, São Paulo - SP, 08474-370, Brasil",
+        "name": "R. Cachoeira De Paulo Afonso",
+        "locationConfidence": 19.846865,
+        "calibratedProbability": 8.697225
+      }, {
+        "latitudeE7": -235851285,
+        "longitudeE7": -463863599,
+        "placeId": "ChIJNSR4lY1vzpQRcIQeC_wJzpU",
+        "address": "R. Édson Chagas, 26 - Jardim Perola I, São Paulo - SP, 08474-320, Brasil",
+        "name": "CR.P.CONV CEU ESTRELADO V",
+        "locationConfidence": 4.696471,
+        "calibratedProbability": 2.0580714
+      }, {
+        "latitudeE7": -235874298,
+        "longitudeE7": -463866873,
+        "placeId": "ChIJy8N0fJFvzpQRARZkv7hWxvI",
+        "address": "R. Lajedo - Cidade Tiradentes, São Paulo - SP, 08473-720, Brasil",
+        "name": "UBS Jardim Vitoria",
+        "locationConfidence": 3.9832404,
+        "calibratedProbability": 1.7455218
+      }, {
+        "latitudeE7": -235852039,
+        "longitudeE7": -463835529,
+        "placeId": "ChIJp9EUhZJvzpQREUMp8BYMkWw",
+        "address": "R. José Barreto Filho, 23 - Conj. Hab. Juscelino Kubitschek, São Paulo - SP, 08740-400, Brasil",
+        "name": "CCA VILA YOLANDA",
+        "locationConfidence": 3.5324202,
+        "calibratedProbability": 1.5479649
+      }, {
+        "latitudeE7": -235838196,
+        "longitudeE7": -463842286,
+        "placeId": "ChIJBSRErflvzpQRkgS4hSJ5Yuw",
+        "address": "R. Inácio Monteiro - Cidade Tiradentes, São Paulo - SP, 08474-480, Brasil",
+        "name": "CEI viver e aprender",
+        "locationConfidence": 3.2023196,
+        "calibratedProbability": 1.4033095
+      }, {
+        "latitudeE7": -235875064,
+        "longitudeE7": -463860068,
+        "placeId": "ChIJlXRXLpJvzpQRF24-7WbWd-M",
+        "address": "Tv. Cachoeira de Paulo Afonso, 9 - Conj. Hab. Sitio Conceicao, São Paulo - SP, 08473-240, Brasil",
+        "name": "Market Nivaldo",
+        "locationConfidence": 2.7378106,
+        "calibratedProbability": 1.1997539
+      }, {
+        "latitudeE7": -235861407,
+        "longitudeE7": -463833612,
+        "placeId": "ChIJoxdzWMtvzpQRlEFt5MDbt2s",
+        "address": "Conj. Hab. Sitio Conceicao, São Paulo - SP, 08474-470, Brasil",
+        "name": "Igreja Evangelica Assembleia de Deus Min. Belém Setor 63 - Congregação Jd. Peróla",
+        "locationConfidence": 1.5197966,
+        "calibratedProbability": 0.666
+      }, {
+        "latitudeE7": -235873755,
+        "longitudeE7": -463865302,
+        "placeId": "ChIJuTo0iJFvzpQRpGXUQZwvXgM",
+        "address": "Tv. Cachoeira de Paulo Afonso, 544-620 - Conj. Hab. Sitio Conceicao, São Paulo - SP, 08473-240, Brasil",
+        "name": "Comunidade SANTÍSSIMA TRINDADE- Igreja Católica Apostólica Romana",
+        "locationConfidence": 1.2464678,
+        "calibratedProbability": 0.5462228
+      }, {
+        "latitudeE7": -235878170,
+        "longitudeE7": -463859850,
+        "placeId": "ChIJIbhjy7pvzpQRQIEkgJS1j60",
+        "address": "Tv. Cachoeira de Paulo Afonso, 100 - Conj. Hab. Sitio Conceicao, São Paulo - SP, 08473-240, Brasil",
+        "name": "Igreja Ministros de Cristo Filhos da Promessa",
+        "locationConfidence": 1.1449784,
+        "calibratedProbability": 0.50174844
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -235867169,
+        "longitudeE7": -463850931,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -235835009,
+        "longitudeE7": -464075959,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-22T20:40:10.922Z",
+        "endTimestamp": "2020-04-22T20:58:19.169Z"
+      },
+      "distance": 3384,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 41.47598445415497
+      }, {
+        "activityType": "WALKING",
+        "probability": 39.893266558647156
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 13.97475153207779
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.792353205382824
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.1026503518223763
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.8940501138567924
+      }, {
+        "activityType": "STILL",
+        "probability": 0.5241810344159603
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11803176021203399
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07457567844539881
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.06796926609240472
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.050763064064085484
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.016414218407589942
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010686546011129394
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0035940502129960805
+      }, {
+        "activityType": "SAILING",
+        "probability": 7.296452167793177E-4
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -235867020,
+          "longitudeE7": -463907250,
+          "placeId": "ChIJ4WLD-o9vzpQR4AxPmcgRnjU",
+          "address": "Cidade Tiradentes, São Paulo - SP, 08473-603, Brasil",
+          "name": "R. Alexandre Davidenko, 549"
+        }, {
+          "latitudeE7": -235834132,
+          "longitudeE7": -464080296,
+          "placeId": "ChIJ4TJyeYdlzpQR0bWjTYRYI94",
+          "address": "Conj. Hab. Castro Alves, São Paulo - SP, 08474-131, Brasil",
+          "name": "Terminal Cidade Tiradentes"
+        }],
+        "name": "4005-10",
+        "hexRgbColor": "EE1C25",
+        "linePlaceId": "ChIJQXr4koJvzpQRzq0Aiy3WWeM",
+        "source": "INFERRED",
+        "confidence": 0.0,
+        "distanceMeters": 4372.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -235867169,
+          "lngE7": -463850931,
+          "accuracyMeters": 20,
+          "timestamp": "2020-04-22T20:40:10.922Z"
+        }, {
+          "latE7": -235835237,
+          "lngE7": -463868787,
+          "accuracyMeters": 150,
+          "timestamp": "2020-04-22T20:43:51.887Z"
+        }, {
+          "latE7": -235816507,
+          "lngE7": -463871925,
+          "accuracyMeters": 19,
+          "timestamp": "2020-04-22T20:45:56.517Z"
+        }, {
+          "latE7": -235814568,
+          "lngE7": -463893151,
+          "accuracyMeters": 150,
+          "timestamp": "2020-04-22T20:47:32.649Z"
+        }, {
+          "latE7": -235808884,
+          "lngE7": -463889896,
+          "accuracyMeters": 19,
+          "timestamp": "2020-04-22T20:48:15.092Z"
+        }, {
+          "latE7": -235779132,
+          "lngE7": -463911403,
+          "accuracyMeters": 26,
+          "timestamp": "2020-04-22T20:50:16.022Z"
+        }, {
+          "latE7": -235746348,
+          "lngE7": -463955456,
+          "accuracyMeters": 56,
+          "timestamp": "2020-04-22T20:52:17.076Z"
+        }, {
+          "latE7": -235829151,
+          "lngE7": -464059501,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-22T20:56:18.167Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4070.8796776319928
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -235834132,
+        "longitudeE7": -464080296,
+        "placeId": "ChIJ4TJyeYdlzpQR0bWjTYRYI94",
+        "address": "Conj. Hab. Castro Alves, São Paulo - SP, 08474-131, Brasil",
+        "name": "Terminal Cidade Tiradentes",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 78.87208,
+        "calibratedProbability": 64.479576,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-22T20:58:19.169Z",
+        "endTimestamp": "2020-04-22T21:10:26.585Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -235833825,
+      "centerLngE7": -464078600,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": -235837450,
+        "longitudeE7": -464081651,
+        "placeId": "ChIJnbNAi4dlzpQRiaP6089p3bY",
+        "address": "R. Milagre dos Peixes, 357 - Conj. Hab. Castro Alves, São Paulo - SP, 08474-120, Brasil",
+        "name": "Praça Multi-Uso Cidade Tiradentes",
+        "locationConfidence": 10.28248,
+        "calibratedProbability": 8.406143
+      }, {
+        "latitudeE7": -235833885,
+        "longitudeE7": -464098439,
+        "placeId": "ChIJJSK3HUVlzpQR2aC3ED1e_wQ",
+        "address": "Av. Souza Ramos, 24 - Complemento 74 - Cidade Tiradentes, São Paulo - SP, 08490-490, Brasil",
+        "name": "Extra Mercado",
+        "locationConfidence": 7.778176,
+        "calibratedProbability": 6.358822
+      }, {
+        "latitudeE7": -235842975,
+        "longitudeE7": -464075204,
+        "placeId": "ChIJ45kAhH1vzpQRdy5hkfj1zGk",
+        "address": "R. Frei Aníbal de Gênova, 8 - Cidade Tiradentes, São Paulo - SP, 08490-550, Brasil",
+        "name": "Congregação Cristã no Brasil - Cidade Tiradentes - Central",
+        "locationConfidence": 1.7087525,
+        "calibratedProbability": 1.3969411
+      }, {
+        "latitudeE7": -235827533,
+        "longitudeE7": -464090043,
+        "placeId": "ChIJcw7VoodlzpQRGxs4llvs8Y0",
+        "address": "R. Milagre dos Peixes, 357 - Conj. Hab. Castro Alves, São Paulo - SP, 08474-120, Brasil",
+        "name": "CAT Cidade Tiradentes",
+        "locationConfidence": 0.49502283,
+        "calibratedProbability": 0.40469155
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -235835708,
+        "longitudeE7": -464080737,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236393985,
+        "longitudeE7": -465263413,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-22T21:10:26.585Z",
+        "endTimestamp": "2020-04-22T22:09:12.241Z"
+      },
+      "distance": 15376,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 56.14848732948303
+      }, {
+        "activityType": "WALKING",
+        "probability": 24.775953590869904
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.912636995315552
+      }, {
+        "activityType": "STILL",
+        "probability": 2.461826242506504
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.250873226672411
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.0123600251972675
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.8641205728054047
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.23732301779091358
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09510022937320173
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0731624779291451
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.06771088228560984
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.046331927296705544
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.03701618406921625
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.015930429799482226
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0011670083040371537
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": -235834132,
+          "longitudeE7": -464080296,
+          "placeId": "ChIJ4TJyeYdlzpQR0bWjTYRYI94",
+          "address": "Conj. Hab. Castro Alves, São Paulo - SP, 08474-131, Brasil",
+          "name": "Terminal Cidade Tiradentes"
+        }, {
+          "latitudeE7": -235945270,
+          "longitudeE7": -464430120,
+          "placeId": "ChIJc4y4lQFmzpQR59pJVzLIem8",
+          "address": "Jardim Sao Joao (Sao Rafael), São Paulo - SP, 08370-330, Brasil",
+          "name": "Av. Ragueb Chohfi, 4429"
+        }],
+        "name": "3539-10",
+        "hexRgbColor": "EE1C25",
+        "linePlaceId": "ChIJcSu1hG5nzpQRowoKjzYq1DY",
+        "source": "INFERRED",
+        "confidence": 0.7288227974034087,
+        "distanceMeters": 5494.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": -235814209,
+          "lngE7": -464106635,
+          "accuracyMeters": 31,
+          "timestamp": "2020-04-22T21:14:16.937Z"
+        }, {
+          "latE7": -235826421,
+          "lngE7": -464114592,
+          "accuracyMeters": 150,
+          "timestamp": "2020-04-22T21:14:52.699Z"
+        }, {
+          "latE7": -235810011,
+          "lngE7": -464133699,
+          "accuracyMeters": 110,
+          "timestamp": "2020-04-22T21:16:29.798Z"
+        }, {
+          "latE7": -235831398,
+          "lngE7": -464155474,
+          "accuracyMeters": 53,
+          "timestamp": "2020-04-22T21:18:30.811Z"
+        }, {
+          "latE7": -235905305,
+          "lngE7": -464166617,
+          "accuracyMeters": 42,
+          "timestamp": "2020-04-22T21:20:30.957Z"
+        }, {
+          "latE7": -235942198,
+          "lngE7": -464230696,
+          "accuracyMeters": 42,
+          "timestamp": "2020-04-22T21:22:42.553Z"
+        }, {
+          "latE7": -235953429,
+          "lngE7": -464394264,
+          "accuracyMeters": 49,
+          "timestamp": "2020-04-22T21:26:44.615Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4746.950096159445
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "Rua Suíça, 163 - Parque das Nações, Santo André - São Paulo, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 67.71603,
+        "calibratedProbability": 37.348297
+      },
+      "duration": {
+        "startTimestamp": "2020-04-22T22:09:12.241Z",
+        "endTimestamp": "2020-04-23T21:01:01.209Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -236374152,
+      "centerLngE7": -465270234,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236372814,
+        "longitudeE7": -465276335,
+        "placeId": "ChIJb8m84rpCzpQRxPGXOsuNu_M",
+        "address": "R. Suíça, 95 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "SEDE FUABC",
+        "locationConfidence": 10.331372,
+        "calibratedProbability": 5.698196
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 6.4719872,
+        "calibratedProbability": 3.5695791
+      }, {
+        "latitudeE7": -236376431,
+        "longitudeE7": -465272252,
+        "placeId": "ChIJXXgZH7tCzpQRFikWAGBe6Xc",
+        "address": "R. Suíça, 140 - Parque das Nações, Santo André - SP, 18307-345, Brasil",
+        "name": "Condonimio Edifício Royale",
+        "locationConfidence": 6.180299,
+        "calibratedProbability": 3.4087005
+      }, {
+        "latitudeE7": -236384376,
+        "longitudeE7": -465260193,
+        "placeId": "ChIJfzAPTbtCzpQR_3NjCSSBVks",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 94",
+        "locationConfidence": 3.6720297,
+        "calibratedProbability": 2.0252821
+      }, {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "locationConfidence": 1.2289904,
+        "calibratedProbability": 0.67784107
+      }, {
+        "latitudeE7": -236363804,
+        "longitudeE7": -465279915,
+        "placeId": "ChIJh-3EirpCzpQR_28SI-jexaE",
+        "address": "R. Espanha, 186 - Parque das Nações, Santo André - SP, 09210-010, Brasil",
+        "name": "Condomínio Edifício Coesta Del Sol",
+        "locationConfidence": 1.0164198,
+        "calibratedProbability": 0.5605992
+      }, {
+        "latitudeE7": -236378660,
+        "longitudeE7": -465267280,
+        "placeId": "ChIJHwO6ObtCzpQRe-WNtir18qk",
+        "address": "R. Japão, 55 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Oriente",
+        "locationConfidence": 0.9262934,
+        "calibratedProbability": 0.5108906
+      }, {
+        "latitudeE7": -236387198,
+        "longitudeE7": -465246400,
+        "placeId": "ChIJn00SYKNCzpQRyH-Eo2GCo4Q",
+        "address": "Av. Brasil, 26 - Parque das Nações, Santo André - SP, 09210-280, Brasil",
+        "name": "Cond. Edifício Santa Izabel",
+        "locationConfidence": 0.8247338,
+        "calibratedProbability": 0.45487615
+      }, {
+        "latitudeE7": -236376118,
+        "longitudeE7": -465253346,
+        "placeId": "ChIJfWBuyKRCzpQRKx6ZNyyM8aw",
+        "address": "R. Suíça, 326 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Cond. Suiça",
+        "locationConfidence": 0.7225265,
+        "calibratedProbability": 0.39850444
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": -236382345,
+        "longitudeE7": -465266647,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "endLocation": {
+        "latitudeE7": -236387460,
+        "longitudeE7": -465264892,
+        "sourceInfo": {
+          "deviceTag": -871438352
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-23T21:01:01.209Z",
+        "endTimestamp": "2020-04-23T21:03:02.200Z"
+      },
+      "distance": 59,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 60.933661460876465
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 26.24562680721283
+      }, {
+        "activityType": "STILL",
+        "probability": 8.715858310461044
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.2828882783651352
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.879775732755661
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.8616377599537373
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.7660751231014729
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.10456031886860728
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.073808099841699
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.05827383720315993
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0459416740341112
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0153744374983944
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.010002619819715619
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.005879687159904279
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.388432666426525E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": -236382350,
+          "lngE7": -465266609
+        }, {
+          "latE7": -236386337,
+          "lngE7": -465264205
+        }, {
+          "latE7": -236386718,
+          "lngE7": -465263900
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 68.83314763526357,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 90.64297,
+        "calibratedProbability": 76.95559,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-23T21:03:02.200Z",
+        "endTimestamp": "2020-04-23T21:11:06.261Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": -236388720,
+      "centerLngE7": -465264120,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "R. Suíça, 163 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "locationConfidence": 5.072923,
+        "calibratedProbability": 4.3068953
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 1.0146319,
+        "calibratedProbability": 0.8614192
+      }, {
+        "latitudeE7": -236391069,
+        "longitudeE7": -465266084,
+        "placeId": "ChIJmWUuUbtCzpQRYNutBY43NxI",
+        "address": "Praça Chile, 40-154 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Farma\u0026Cia",
+        "locationConfidence": 0.6833335,
+        "calibratedProbability": 0.580148,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -236389795,
+        "longitudeE7": -465264672,
+        "placeId": "ChIJvajuo6RCzpQRR3mt7wrl9gg",
+        "address": "Praça Chile, 57 - Parque Bandeirante, Santo André - SP, 09051-000, Brasil",
+        "name": "Banco24Horas",
+        "locationConfidence": 0.51943064,
+        "calibratedProbability": 0.44099495,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": -236386935,
+        "longitudeE7": -465259657,
+        "placeId": "ChIJzeD1qqRCzpQR70MRhS5B2RA",
+        "address": "Praça Chile - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "CRECHE Profª Esther Moura Barreto",
+        "locationConfidence": 0.46737692,
+        "calibratedProbability": 0.3968015
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -236373138,
+        "longitudeE7": -465269318,
+        "placeId": "ChIJQypqIbtCzpQRxZ1KrC24OWI",
+        "address": "Rua Suíça, 163 - Parque das Nações, Santo André - São Paulo, Brasil",
+        "sourceInfo": {
+          "deviceTag": -871438352
+        },
+        "locationConfidence": 62.252113,
+        "calibratedProbability": 30.68858
+      },
+      "duration": {
+        "startTimestamp": "2020-04-23T21:11:06.261Z",
+        "endTimestamp": "2020-05-03T16:08:58.393Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": -236373500,
+      "centerLngE7": -465269480,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": -236372814,
+        "longitudeE7": -465276335,
+        "placeId": "ChIJb8m84rpCzpQRxPGXOsuNu_M",
+        "address": "R. Suíça, 95 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "SEDE FUABC",
+        "locationConfidence": 16.234701,
+        "calibratedProbability": 8.003262
+      }, {
+        "latitudeE7": -236391667,
+        "longitudeE7": -465263889,
+        "placeId": "ChIJAwDFoKRCzpQR1u1CLi4xUlc",
+        "address": "Praça Chile, 57 - Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Sonda Supermercados - Santo André",
+        "locationConfidence": 8.768541,
+        "calibratedProbability": 4.32265
+      }, {
+        "latitudeE7": -236390436,
+        "longitudeE7": -465257012,
+        "placeId": "ChIJ-6iIVaNCzpQRxP1qtuXpV-4",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 150",
+        "locationConfidence": 3.7541676,
+        "calibratedProbability": 1.8507015
+      }, {
+        "latitudeE7": -236376431,
+        "longitudeE7": -465272252,
+        "placeId": "ChIJXXgZH7tCzpQRFikWAGBe6Xc",
+        "address": "R. Suíça, 140 - Parque das Nações, Santo André - SP, 18307-345, Brasil",
+        "name": "Condonimio Edifício Royale",
+        "locationConfidence": 3.1586576,
+        "calibratedProbability": 1.5571313
+      }, {
+        "latitudeE7": -236384376,
+        "longitudeE7": -465260193,
+        "placeId": "ChIJfzAPTbtCzpQR_3NjCSSBVks",
+        "address": "Parque das Nações, Santo André - SP, 09210-270, Brasil",
+        "name": "Praça Chile, 94",
+        "locationConfidence": 2.296799,
+        "calibratedProbability": 1.1322588
+      }, {
+        "latitudeE7": -236399235,
+        "longitudeE7": -465263050,
+        "placeId": "ChIJLRhMsLxCzpQRqrjA1iF_wYE",
+        "address": "R. Paulina Isabel de Queirós, 446 - Vila Sao Pedro, Santo André - SP, 09210-260, Brasil",
+        "name": "Instituto de Ensino Portinari - Unidade I",
+        "locationConfidence": 0.99616134,
+        "calibratedProbability": 0.49108016
+      }, {
+        "latitudeE7": -236363804,
+        "longitudeE7": -465279915,
+        "placeId": "ChIJh-3EirpCzpQR_28SI-jexaE",
+        "address": "R. Espanha, 186 - Parque das Nações, Santo André - SP, 09210-010, Brasil",
+        "name": "Condomínio Edifício Coesta Del Sol",
+        "locationConfidence": 0.65814906,
+        "calibratedProbability": 0.3244494
+      }, {
+        "latitudeE7": -236378660,
+        "longitudeE7": -465267280,
+        "placeId": "ChIJHwO6ObtCzpQRe-WNtir18qk",
+        "address": "R. Japão, 55 - Parque das Nações, Santo André - SP, 09240-170, Brasil",
+        "name": "Condomínio Edifício Oriente",
+        "locationConfidence": 0.53919524,
+        "calibratedProbability": 0.26580843
+      }, {
+        "latitudeE7": -236376118,
+        "longitudeE7": -465253346,
+        "placeId": "ChIJfWBuyKRCzpQRKx6ZNyyM8aw",
+        "address": "R. Suíça, 326 - Parque das Nações, Santo André - SP, 09210-000, Brasil",
+        "name": "Cond. Suiça",
+        "locationConfidence": 0.49289232,
+        "calibratedProbability": 0.24298237
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
